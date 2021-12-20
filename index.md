@@ -1,4 +1,4 @@
-![My Profile Pic](/images/White Dp.jpg)
+<img src="/images/White Dp.jpg" alt="My Profile Pic" style="width:500px;height:600px;">
 # Sachin Kumar
 ### Example Data Science Portfolio
 ## Education
