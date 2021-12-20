@@ -1,4 +1,7 @@
-<img src="/images/White Dp.jpg" alt="My Profile Pic" style="width:500px;height:600px;">
+<div>
+<img src="/images/White Dp.jpg" alt="My Profile Pic" style="width:1920px;height:1080px;">
+</div>
+
 # Sachin Kumar
 ### Example Data Science Portfolio
 ## Education
