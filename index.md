@@ -1,3 +1,4 @@
+![My Profile Pic](/images/White Dp.jpg)
 # Sachin Kumar
 ### Example Data Science Portfolio
 ## Education
