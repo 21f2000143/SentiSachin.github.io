@@ -1,4 +1,9 @@
+<table background-color:"powderblue;" width:1920px height:30px>
+<tr> I am Sachin Kumar </tr>
+</table>
 <div>
+  <p style="color:red;">A red paragraph.</p>
+  
 <img src="/images/White Dp.jpg" alt="My Profile Pic" style="width:1920px;height:1080px;">
 </div>
 
