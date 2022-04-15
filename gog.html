@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to groups related elements in a form using HTML</title>
+    <style>
+        h1,
+        h2,
+        .title{
+            text-align: center  ;
+        }
+        fieldset{
+            width: 50%;
+            margin-left: 22%;
+        }
+        h1{
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>SiteforTest</h1>
+    <h2>
+        How to groups related elements in a form using HTML
+    </h2>
+    <form action="#">
+        <div class="title">
+            Suggest article for video:
+        </div>
+        <fieldset>
+            <legend>Personal Details</legend>
+            First name: <input type="text"><br>
+            Last name: <input type="text"><br>
+            Gender :
+            <label><input type="radio" name="gender" value="male">Male</label>
+            <label><input type="radio" name="gender" value="female">Female</label><br>
+            Email: <label><input type="text" name="email"><br></label>
+            <p>
+                Date of Birth: <label><input type="date" name="birthDate"></label>
+            </p>
+            <p>
+                <label>
+                    Address:
+                    <br>
+                    <textarea name="address" cols="30" rows="3"></textarea>
+                </label>
+            </p>
+            <p>
+                <button type="submit">Submit</button>
+            </p>
+        </fieldset>
+        <fieldset>
+            <legend>JAVA:</legend>
+            Title: <input type="text"><br>
+            Link: <input type="text"><br>
+            User ID: <input type="text">
+        </fieldset>
+        <fieldset>
+            <legend>PHP:</legend>
+            Title: <input type="text"><br>
+            Link: <input type="text"><br>
+            User ID: <input type="text">
+        </fieldset>
+    </form>
+</body>
+</html>
